@@ -1,0 +1,2 @@
+# amp
+afroza theme amp
